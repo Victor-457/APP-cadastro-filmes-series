@@ -1,0 +1,16 @@
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\obj\Debug\net5.0\SERIES.csprojAssemblyReference.cache
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\obj\Debug\net5.0\SERIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\obj\Debug\net5.0\SERIES.AssemblyInfoInputs.cache
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\obj\Debug\net5.0\SERIES.AssemblyInfo.cs
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\obj\Debug\net5.0\SERIES.csproj.CoreCompileInputs.cache
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\bin\Debug\net5.0\SERIES.exe
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\bin\Debug\net5.0\SERIES.deps.json
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\bin\Debug\net5.0\SERIES.runtimeconfig.json
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\bin\Debug\net5.0\SERIES.runtimeconfig.dev.json
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\bin\Debug\net5.0\SERIES.dll
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\bin\Debug\net5.0\ref\SERIES.dll
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\bin\Debug\net5.0\SERIES.pdb
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\obj\Debug\net5.0\SERIES.dll
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\obj\Debug\net5.0\ref\SERIES.dll
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\obj\Debug\net5.0\SERIES.pdb
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Series_Dotnet\SERIES\obj\Debug\net5.0\SERIES.genruntimeconfig.cache

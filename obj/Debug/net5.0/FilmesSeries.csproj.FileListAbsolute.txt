@@ -1,0 +1,16 @@
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\obj\Debug\net5.0\FilmesSeries.csprojAssemblyReference.cache
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\obj\Debug\net5.0\FilmesSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\obj\Debug\net5.0\FilmesSeries.AssemblyInfoInputs.cache
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\obj\Debug\net5.0\FilmesSeries.AssemblyInfo.cs
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\obj\Debug\net5.0\FilmesSeries.csproj.CoreCompileInputs.cache
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\bin\Debug\net5.0\FilmesSeries.exe
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\bin\Debug\net5.0\FilmesSeries.deps.json
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\bin\Debug\net5.0\FilmesSeries.runtimeconfig.json
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\bin\Debug\net5.0\FilmesSeries.runtimeconfig.dev.json
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\bin\Debug\net5.0\FilmesSeries.dll
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\bin\Debug\net5.0\ref\FilmesSeries.dll
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\bin\Debug\net5.0\FilmesSeries.pdb
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\obj\Debug\net5.0\FilmesSeries.dll
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\obj\Debug\net5.0\ref\FilmesSeries.dll
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\obj\Debug\net5.0\FilmesSeries.pdb
+C:\Users\Victor-\Desktop\atalhos\proj\APP_Filmes_Series_Dotnet\FilmesSeries\obj\Debug\net5.0\FilmesSeries.genruntimeconfig.cache
